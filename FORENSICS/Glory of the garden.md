@@ -14,9 +14,13 @@ Hex Editor: Hex editor (atau hexadecimal editor) adalah program yang memungkinka
 Setiap file di komputer — entah itu gambar, dokumen, aplikasi — semuanya disimpan sebagai byte (angka biner), dan hex editor memungkinkan kamu melihat byte-byte itu langsung.
 
 mari kita liat byte dari file jpg tersebut. kita lihat head nya karena kemungkinan akan panjang
+![xxd](https://github.com/yowsevanz/images/blob/main/glory%20of%20the%20garden/%20xxd.png)
 
 tidak ada yang mencurigakan atau menujukkan tanda tanda flag.
 
 
 coba kita lihat tail nya 
+![tail](https://github.com/yowsevanz/images/blob/main/glory%20of%20the%20garden/xxd_tail.png)
 
+YUPS! WE FOUND THE FLAG!!!
+### flag : picoCTF{more_than_m33ts_the_3y3657BaB2C}
