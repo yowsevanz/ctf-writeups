@@ -1,2 +1,2 @@
 # ctf-writeups
-write-ups ctf yang udah aku diselesaikan, mostly with bahasa
+write-ups ctf yang udah aku solve, mostly with bahasa
