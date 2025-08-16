@@ -1,2 +1,0 @@
-# Dear BF 
-## COMPFEST17 
